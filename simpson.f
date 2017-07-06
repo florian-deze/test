@@ -13,7 +13,7 @@
          END DO
 *
          AIRE = 0D0
-*
+* dgdfgfdhgd
 * DE RES(1) a RES(N-2)
          DO I = 1, K/2
             AIRE = AIRE + 4 * RES(2*I - 1) + 2 * RES(2*I)
