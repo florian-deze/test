@@ -3,7 +3,7 @@
       INTEGER N,I,K
       DOUBLE PRECISION AIRE, H, RES(0:N),PRIM,RESP,ERR,A,B,FUNC
 *
-* fhsdblsdhblfbvldffsdgsdgsgfgd
+* fhsdblsdhblfbvldffsdgsdgsgfgdfsdfs
       RESP = PRIM(B) - PRIM(A)
       K = 2
       DO WHILE (K.le.N)
